@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Dell
+Build-Jdk: 17.0.4
+Main-Class: devops.b1.h.Myclass
+Created-By: Maven Integration for Eclipse
+
